@@ -15,6 +15,18 @@
     "tailwindcss": "^4.2.4",
     "typescript": "^5.9.3"
   },
+  "devEngines": {
+    "packageManager": {
+      "name": "npm",
+      "onFail": "warn",
+      "version": "11"
+    },
+    "runtime": {
+      "name": "node",
+      "onFail": "warn",
+      "version": "24"
+    }
+  },
   "name": "ai-starter-nextjs-16",
   "private": true,
   "scripts": {
