@@ -11,6 +11,6 @@
 /*.tsbuildinfo
 /next-env.d.ts
 
-# Vercel (do not edit the following entries to avoid automatic inserts)
+# Vercel (auto-generated from Vercel CLI)
 .vercel
 .env*.local
